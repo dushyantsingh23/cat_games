@@ -1,0 +1,19 @@
+.background {
+	background-color: #3169f7;
+	height: 100%;
+	width: 100%;
+}
+
+.round {
+	  display: block;
+	  background: #f2eb8e;
+	  border-radius: 50%;
+	  height: 200px;
+	  width: 200px;
+	  margin: 0;
+	  position:fixed;
+}
+
+.cat-image {
+	content:url(../assets/grumpy_cat.jpg);
+}
